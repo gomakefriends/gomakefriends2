@@ -14,9 +14,9 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: Go Make Friends
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  Go Make Friends
 
 nav_lists:
   - titles:
@@ -42,7 +42,7 @@ timezone: Asia/Shanghai
 ## Author & social ##
 author:
   name: Someone
-  # email:  #your Email address e.g. someone@site.com
+  #email: #your email address
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
@@ -50,6 +50,7 @@ author:
   # weibo:  #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
+  soundcloud: soundcloud.com/gomakefriends
 
 ## Comment system (Disqus) ##
 disqus:
