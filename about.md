@@ -8,12 +8,14 @@ titles:
 key: page-about
 ---
 ***
-The _Go_ _Make_ _Friends_ podcast tells stories about people working together. They aren't necessarily big stories about big challenges or triumphs. They're about how day-to-day cooperation is difficult and necessary.  I hope that some listeners will be inspired to get out there and get involved with others; to be creative and courageous in their dealings with other people; and to approach our problems with a spirit of friendship.
+The Go Make Friends podcast has a goal: to celebrate group activity by telling stories about people working together. Often people only really hear about organizations in the media when they make headlines with big stories. I want to present something that gives a sense of what's it's like and how rewarding it can be to work with other people. I think that those kinds of stories, about what day-to-day life in organizations can be, are very important. I hope that some listeners will be inspired to get out there and get involved, and to be creative and courageous in their dealings with other people.
 
 ### Among other things I'm interested in how groups...
 
-* resolve conflicts,
-* find leaders,
-* model themselves after other groups,
-* measure success,
-* plan for the future.
+* Resolve conflicts,
+* Find leaders,
+* Model themselves after other groups,
+* Measure success,
+* Plan for the future.
+
+If you'd like to get in touch please email thegomakefriendsshow at gmail dot com.
